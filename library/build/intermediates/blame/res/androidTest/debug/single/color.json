@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\floder_name_color_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\floder_name_color_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\default_text_color.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\color\\default_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.1.aar\\231bebec48578cbed4082f9077a4c90d\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\default_text_color.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\default_text_color.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.1.aar\\231bebec48578cbed4082f9077a4c90d\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\floder_name_color_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\floder_name_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\default_text_color.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\color\\default_text_color.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\floder_name_color_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\color\\floder_name_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__dark_theme.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__dark_theme.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\vpi__light_theme.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color\\abc_tint_seek_thumb.xml"
+    }
+]

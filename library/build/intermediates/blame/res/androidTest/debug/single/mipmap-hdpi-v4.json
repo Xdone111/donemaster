@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\progreebar.png",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\progreebar.png"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\progreebar.png",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\progreebar.png"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\progreebar.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\progreebar.png"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\mipmap-hdpi-v4\\ic_launcher.png"
+    }
+]

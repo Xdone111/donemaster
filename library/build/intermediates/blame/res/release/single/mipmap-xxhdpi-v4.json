@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

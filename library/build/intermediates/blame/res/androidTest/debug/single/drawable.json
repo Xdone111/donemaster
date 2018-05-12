@@ -1,0 +1,882 @@
+[
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\line.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_bottom_left_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bottom_left_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_right_selected.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_right_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_right_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_right_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layout_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\layout_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\text_indicator_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\text_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\scrollbar_vertical_thumb.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_camera_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_camera_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layout_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\layout_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_camera_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_camera_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_bottom_left_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_bottom_left_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_top.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_top.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_left.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_select_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_select_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\v_line.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\v_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.1.aar\\231bebec48578cbed4082f9077a4c90d\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_camera_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_camera_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\click_bg.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\click_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_left_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_left_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_selected.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\line.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\text_indicator_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\text_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_selected.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_top.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_bottom_right_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bottom_right_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_bottom_left_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bottom_left_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\action_btn.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\action_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_bottom_left_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_bottom_left_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\v_line.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\v_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_right_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_right_selected.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_bottom_left_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bottom_left_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\action_btn.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\action_btn.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_left_selected.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_left_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_right.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_bottom_right_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bottom_right_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_left_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_left_selected.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_bottom_right_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_bottom_right_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_left.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\line.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\line.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_hovered.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_hovered.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_bottom_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bottom_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_selected.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\layout_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\layout_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\scrollbar_vertical_thumb.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_left.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_left.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_ic_visibility.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_bottom_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bottom_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\scrollbar_vertical_thumb.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\switch_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\switch_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.1.aar\\231bebec48578cbed4082f9077a4c90d\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_bottom_right_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_bottom_right_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\click_bg.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\click_bg.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_def.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_def.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_left_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_left_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_toast.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_toast.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_middle.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_hovered.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_hovered.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_bg.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_right.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\action_btn.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\action_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_def.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_def.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_top.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_top.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.1.aar\\231bebec48578cbed4082f9077a4c90d\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_right.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_selected.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_bottom_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bottom_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.2.1.aar\\231bebec48578cbed4082f9077a4c90d\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_toast.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_toast.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_left_selected.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_left_selected.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_right.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\v_line.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\v_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_def.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_def.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\text_indicator_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\text_indicator_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_selected.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_right_selected.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_right_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_middle.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_bottom_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_bottom_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_middle.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\bg_toast.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\bg_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_top.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_right_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_right_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_select_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_select_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_left.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_select_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_select_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_middle.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_middle.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom_right.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_top.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_bottom_selector.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_bottom_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_left.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom_selected.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom_selected.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\XDONE\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-24.2.1.aar\\0edbbda4fa6c8d19b1b5015cbbb6e774\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\click_bg.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\click_bg.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_bottom_right_selector.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_bottom_right_selector.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\whitedialog_corner_middle.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\whitedialog_corner_middle.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_hovered.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_hovered.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\wheel_val.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_android\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\dialog_corner_bottom.xml",
+        "source": "C:\\xdone\\workspace\\asworkspace\\learnproject\\donemaster\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\dialog_corner_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\zm\\Documents\\mxcome\\mxcome_mc_android\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    }
+]

@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/item_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/item_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_bottom_right_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_bottom_right_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/item_hovered.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/item_hovered.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_top.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_corner_top.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/line.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/line.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/btn_select_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/btn_select_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_corner_bottom_right_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_corner_bottom_right_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_corner_top.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_corner_top.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_middle.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_corner_middle.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_right.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_corner_bottom_right.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/text_indicator_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/text_indicator_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/item_hovered.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/item_hovered.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_right_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_corner_bottom_right_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_middle.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_corner_middle.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/text_indicator_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/text_indicator_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/v_line.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/v_line.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/scrollbar_vertical_thumb.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_left.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_corner_bottom_left.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/wheel_val.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/switch_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/switch_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_corner_bottom.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_corner_bottom_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_corner_bottom_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/item_def.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/item_def.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_corner_bottom_left.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_corner_bottom_left.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/action_btn.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/action_btn.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/layout_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/layout_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_bottom_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_bottom_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/scrollbar_vertical_thumb.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/action_btn.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/action_btn.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_bottom_left_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_bottom_left_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_corner_bottom.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_corner_bottom.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_bottom_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_bottom_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_right_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_corner_bottom_right_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/wheel_val.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/wheel_val.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/btn_select_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/btn_select_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_corner_bottom.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_left_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_corner_bottom_left_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/bg_toast.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/bg_toast.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/click_bg.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/click_bg.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_right.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_corner_bottom_right.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/wheel_bg.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/item_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/item_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/wheel_bg.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/layout_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/layout_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/bg_toast.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/bg_toast.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_bottom_right_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_bottom_right_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_corner_bottom_right.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_corner_bottom_right.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/bg_camera_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/bg_camera_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_corner_bottom_left_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_corner_bottom_left_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_left.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_corner_bottom_left.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_bottom_left_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_bottom_left_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_bottom_left_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_bottom_left_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_top.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_corner_top.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/item_def.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/item_def.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/bg_camera_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/bg_camera_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/click_bg.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/click_bg.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/v_line.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/v_line.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/dialog_bottom_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/dialog_bottom_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/line.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/line.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_bottom_right_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_bottom_right_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_corner_middle.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_corner_middle.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/whitedialog_corner_bottom_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/whitedialog_corner_bottom_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/dialog_corner_bottom_left_selected.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/drawable/dialog_corner_bottom_left_selected.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/switch_selector.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/drawable/switch_selector.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable/abc_btn_radio_material.xml"
+    }
+]

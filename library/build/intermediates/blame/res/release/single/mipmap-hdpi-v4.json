@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-hdpi-v4/progreebar.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-hdpi/progreebar.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-hdpi-v4/progreebar.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-hdpi/progreebar.png"
+    }
+]

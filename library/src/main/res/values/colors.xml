@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="white">#ffffff</color><!--白色 -->
+	<color name="white_b">#70ffffff</color><!--白色 -->
+	<color name="black">#000000</color><!--黑色 -->
+	<color name="black_b">#60000000</color><!--黑色 -->
+	<color name="grey">#333333</color><!-- 浅灰色 -->
+	<color name="trans">#00000000</color><!--透明 -->
+	<color name="trans_b">#77000000</color> <!-- 半透明 -->
+	<color name="blue">#057db4</color><!-- 蓝色 -->
+	<color name="blue_main">#4BB7FD</color>
+
+	<color name="action_bar_bg">#4BB7FD</color><!--公用ActionBar背景色 -->
+	<color name="bg">#f3f3f3</color><!--背景色 -->
+	<color name="line">#e2e5e5</color><!-- 线条色 -->
+	<color name="line_b">#60e2e5e5</color><!-- 线条色 -->
+	<color name="text_color">#666666</color><!-- 文本色 -->
+	<color name="summary_color">#9a9a9a</color><!-- 概要色 -->
+	<color name="status_color">#000000</color><!-- 状态色 -->
+	<color name="text_hint_color">#cccccc</color> <!-- 提示色 -->
+	<color name="item_selected">#eeeeee</color> <!-- 项选中 -->
+	<color name="item_hovered">#a4a4a4</color>  <!-- 项默认 -->
+
+	<color name="bg_floder_press">#bdbdbd</color> <!-- 图片浏览器 -->
+
+</resources>

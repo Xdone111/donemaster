@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ptr_rotate_arrow.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/dialog_close.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/dialog_close.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_dir.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/ic_dir.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_dir_choose.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/ic_dir_choose.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/dialog_close.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/dialog_close.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/right_arrow.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/right_arrow.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_selected_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/btn_unselected.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/btn_unselected.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_selected_focused_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ptr_rotate_arrow.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/ptr_rotate_arrow.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/text_indicator_normal.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/text_indicator_normal.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_dir_choose.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/ic_dir_choose.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ptr_rotate_arrow_up.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/ptr_rotate_arrow_up.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/text_indicator_pressed.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/text_indicator_pressed.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_unselected_focused_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/switch_close.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/switch_close.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/btn_unselected.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/btn_unselected.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/text_indicator_pressed.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/text_indicator_pressed.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/text_indicator_normal.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/text_indicator_normal.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_camera.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ptr_rotate_arrow_up.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/ptr_rotate_arrow_up.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/btn_selected.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/btn_selected.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/btn_selected.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/btn_selected.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/switch_open.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/switch_open.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/btn_back.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/btn_back.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_photo_loading.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/ic_photo_loading.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_unselected_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/btn_back.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/btn_back.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_selected_focused_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_photo_loading.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/ic_photo_loading.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/switch_close.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/switch_close.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_dir.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/ic_dir.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_selected_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/right_arrow.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/right_arrow.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_unselected_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/switch_open.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/switch_open.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_selected_pressed_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/ic_camera.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_mc_android/library/src/main/res/mipmap-xhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/Users/zm/Documents/mxcome/mxcome_android/library/build/intermediates/res/merged/release/mipmap-xhdpi-v4/vpi__tab_unselected_pressed_holo.9.png",
+        "source": "/Users/zm/Documents/mxcome/mxcome_android/library/src/main/res/mipmap-xhdpi/vpi__tab_unselected_pressed_holo.9.png"
+    }
+]
